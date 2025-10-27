@@ -1,0 +1,21 @@
+Subject: Welcome — Your Mini Course is Ready
+
+Email #1 (Immediately after purchase)
+- Thanks for enrolling in “{{TOPIC}}”.
+- Watch here: {{VIDEO_URL}}
+- Tip: Try 4-2-6 breathing before you begin.
+- Scripture: Psalm 34:18 (NLV).
+
+Email #2 (Next morning)
+- How did session one feel?
+- Quick practice recap + one reflective question.
+- CTA: Continue your healing with the Foundation Course → {{FOUNDATION_URL}}
+
+Email #3 (Day 3)
+- Testimony snippet or encouragement.
+- Invite reply: “How can we pray for you?”
+- Soft upsell to Foundation Course.
+
+(Abandoned Checkout Variant)
+- Subject: Still thinking about “{{TOPIC}}”?
+- 2-line benefit + link back to {{CHECKOUT_URL}}
