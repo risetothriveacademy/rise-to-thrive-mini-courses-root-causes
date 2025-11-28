@@ -1,0 +1,24 @@
+{
+  "mini_courses": [
+    { "id": 1, "slug": "shame-guilt", "title": "Shame & Guilt", "category": "Introductory-Recovery" },
+    { "id": 2, "slug": "fear", "title": "Fear", "category": "Introductory-Recovery" },
+    { "id": 3, "slug": "subconscious-drivers", "title": "Subconscious Drivers & Hidden Patterns", "category": "Introductory-Recovery" },
+    { "id": 4, "slug": "emotional-attachments", "title": "Past Emotional Attachments (Why You Can’t Move On)", "category": "Introductory-Recovery" },
+    { "id": 5, "slug": "hopelessness-despair", "title": "Hopelessness & Despair", "category": "Introductory-Recovery" },
+    { "id": 6, "slug": "anxiety", "title": "Anxiety", "category": "Introductory-Recovery" },
+    { "id": 7, "slug": "panic-overwhelm", "title": "Panic & Overwhelm", "category": "Introductory-Recovery" },
+    { "id": 8, "slug": "depression", "title": "Depression", "category": "Introductory-Recovery" },
+    { "id": 9, "slug": "self-sabotage", "title": "Self-Sabotage", "category": "Introductory-Recovery" },
+    { "id": 10, "slug": "rejection-abandonment", "title": "Rejection & Abandonment", "category": "Introductory-Recovery" },
+    { "id": 11, "slug": "control-perfectionism", "title": "Control & Perfectionism", "category": "Introductory-Recovery" },
+    { "id": 12, "slug": "financial-fear", "title": "Financial Fear & Survival Stress", "category": "Introductory-Recovery" },
+    { "id": 13, "slug": "people-pleasing", "title": "People-Pleasing & Approval Addiction", "category": "Introductory-Recovery" },
+    { "id": 14, "slug": "anger-volatility", "title": "Anger & Emotional Volatility", "category": "Introductory-Recovery" },
+    { "id": 15, "slug": "confusion-brainfog", "title": "Confusion, Brain Fog & Lack of Clarity", "category": "Introductory-Recovery" },
+    { "id": 16, "slug": "identity-crisis", "title": "Identity Crisis & False Beliefs", "category": "Introductory-Recovery" },
+    { "id": 17, "slug": "insecurity-inferiority", "title": "Insecurity & Inferiority", "category": "Introductory-Recovery" },
+    { "id": 18, "slug": "trauma-bonding", "title": "Trauma-Bonding & Soul Ties", "category": "Introductory-Recovery" }
+  ],
+  "version": "1.0.0",
+  "last_updated": "{{today}}"
+}
