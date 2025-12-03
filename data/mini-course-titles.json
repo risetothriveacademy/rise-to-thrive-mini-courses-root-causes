@@ -1,0 +1,128 @@
+[
+  {
+    "order": 1,
+    "stripe_product_id": "prod_TSOXfjMDZolCjf",
+    "stripe_name": "Introductory – Recovery: Shame & Guilt",
+    "slug": "shame-guilt",
+    "emotional_title": "Stuck in Shame & Guilt"
+  },
+  {
+    "order": 2,
+    "stripe_product_id": "prod_TSOLXn2nBDbZQP",
+    "stripe_name": "Introductory – Recovery: Fear",
+    "slug": "fear",
+    "emotional_title": "Breaking the Cycle of Fear"
+  },
+  {
+    "order": 3,
+    "stripe_product_id": "prod_TSMpZT57p9oDAq",
+    "stripe_name": "Introductory – Recovery: Subconscious Drivers & Patterns",
+    "slug": "hidden-pattern",
+    "emotional_title": "The Hidden Pattern Holding You Back"
+  },
+  {
+    "order": 4,
+    "stripe_product_id": "prod_TSMmWH9yzOYL73",
+    "stripe_name": "Introductory – Recovery: Past Emotional Attachments",
+    "slug": "move-on",
+    "emotional_title": "Why You Can’t Move On"
+  },
+  {
+    "order": 5,
+    "stripe_product_id": "prod_TSMFWg6XFMg9eE",
+    "stripe_name": "Introductory – Recovery: Hopelessness & Despair",
+    "slug": "hopelessness",
+    "emotional_title": "Fighting Hopelessness"
+  },
+  {
+    "order": 6,
+    "stripe_product_id": "prod_TSMCerVH0BXsZ3",
+    "stripe_name": "Introductory – Recovery: Purpose & Calling",
+    "slug": "purpose",
+    "emotional_title": "Feeling Lost in Your Purpose"
+  },
+  {
+    "order": 7,
+    "stripe_product_id": "prod_TSM6FuEC0lytHa",
+    "stripe_name": "Introductory – Recovery: Emotional Burnout",
+    "slug": "exhausted",
+    "emotional_title": "Exhausted but Still Broken"
+  },
+  {
+    "order": 8,
+    "stripe_product_id": "prod_TSLzM8bFDDKr65",
+    "stripe_name": "Introductory – Recovery: Fear of Rejection & People-Pleasing",
+    "slug": "resentment",
+    "emotional_title": "Resentment Ruining Your Peace"
+  },
+  {
+    "order": 9,
+    "stripe_product_id": "prod_TSLtNDxCh1xPrx",
+    "stripe_name": "Introductory – Recovery: Anger & Resentment",
+    "slug": "anger",
+    "emotional_title": "When Anger Turns Inward"
+  },
+  {
+    "order": 10,
+    "stripe_product_id": "prod_TSLqD4IgqeE9qm",
+    "stripe_name": "Introductory – Recovery: Trauma Healing",
+    "slug": "trauma",
+    "emotional_title": "Overwhelmed by Trauma"
+  },
+  {
+    "order": 11,
+    "stripe_product_id": "prod_TSLogcuruN2fnZ",
+    "stripe_name": "Introductory – Recovery: Rejection & Abandonment",
+    "slug": "past",
+    "emotional_title": "Stuck in Your Past"
+  },
+  {
+    "order": 12,
+    "stripe_product_id": "prod_TSLjC8OEvYczgR",
+    "stripe_name": "Introductory – Recovery: Healthy Boundaries",
+    "slug": "boundaries",
+    "emotional_title": "Struggling to Set Boundaries"
+  },
+  {
+    "order": 13,
+    "stripe_product_id": "prod_TSLfseLSAWx7wC",
+    "stripe_name": "Introductory – Recovery: Financial Recovery",
+    "slug": "financial-despair",
+    "emotional_title": "Financial Despair"
+  },
+  {
+    "order": 14,
+    "stripe_product_id": "prod_TSLaH2YvBa12HK",
+    "stripe_name": "Introductory – Recovery: Unforgiveness & Bitterness",
+    "slug": "forgiveness",
+    "emotional_title": "When Forgiveness Feels Impossible"
+  },
+  {
+    "order": 15,
+    "stripe_product_id": "prod_TSLSFJjIbtJ2ZU",
+    "stripe_name": "Introductory – Recovery: Identity & Self-Worth",
+    "slug": "identity",
+    "emotional_title": "Losing Your Identity & Self-Worth"
+  },
+  {
+    "order": 16,
+    "stripe_product_id": "prod_TSLM7m8TYevDco",
+    "stripe_name": "Introductory – Recovery: Grief & Loss",
+    "slug": "grief",
+    "emotional_title": "Carrying the Weight of Grief"
+  },
+  {
+    "order": 17,
+    "stripe_product_id": "prod_TSLEywmKicQnGz",
+    "stripe_name": "Introductory – Recovery: Depression",
+    "slug": "depression",
+    "emotional_title": "Trapped in Depression"
+  },
+  {
+    "order": 18,
+    "stripe_product_id": "prod_TSL8wAz7zBSFaL",
+    "stripe_name": "Introductory – Recovery: Anxiety",
+    "slug": "anxiety",
+    "emotional_title": "Why Anxiety Won’t Let Go"
+  }
+]
