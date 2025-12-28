@@ -1,3 +1,11 @@
+> ⚠️ **LOCKED SYSTEM — DO NOT MODIFY**
+>
+> This document defines the core operating system for all mini-courses,
+> funnels, ads, videos, workbooks, and automations under
+> **Transforming Pain Into Power™**.
+>
+> Any changes require explicit founder approval.
+
 # H.E.A.R.T.™ OS
 ## Healing • Extraction • Authority • Root-Cause Transformation
 
